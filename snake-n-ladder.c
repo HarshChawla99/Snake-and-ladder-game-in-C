@@ -1,4 +1,4 @@
-//Snake and Ladder
+//Snake and Laddeer
 //C program for creating & simulating a Snake & Ladder Game
 // Coded by: Akash Mahesh Ganjal. /\('-')/\ 
 //Constraints and Rules
